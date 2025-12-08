@@ -1,0 +1,19 @@
+{
+  "name": "module11",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "vue": "^3.2.0",
+    "vue-router": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0",
+    "gh-pages": "^5.0.0"
+  }
+}
+
